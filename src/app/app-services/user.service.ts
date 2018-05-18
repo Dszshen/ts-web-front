@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import {Http, RequestOptions} from '@angular/http';
+import {Http,Headers, RequestOptions,Response} from '@angular/http';
 
 import User from '../app-models/user';
 
