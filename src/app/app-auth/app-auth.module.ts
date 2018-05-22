@@ -1,5 +1,6 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
+
 import { LogoutComponent } from './logout/logout.component';
 import { AppAuthComponent } from './app-auth/app-auth.component';
 import {fakeBackendProvider} from '../utils/helper';
